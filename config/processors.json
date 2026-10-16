@@ -1,0 +1,78 @@
+{
+  "note": "ILLUSTRATIVE PLACEHOLDERS ONLY. Replace with official organizer PDF values before submission.",
+  "shots": 4096,
+  "seed": 42,
+  "processors": [
+    {
+      "name": "2016-Inspired",
+      "id": "2016_inspired",
+      "qubits": 5,
+      "port_qubits": [0, 1],
+      "ancilla_qubit": 2,
+      "basis_gates": [
+        "id", "x", "y", "z", "h", "s", "sdg", "t", "tdg", "sx", "cx"
+      ],
+      "edges": [
+        [0, 1],
+        [1, 2],
+        [2, 3],
+        [3, 4]
+      ],
+      "single_qubit_depolarizing": 0.0015,
+      "two_qubit_depolarizing": 0.025,
+      "readout_error": 0.02
+    },
+    {
+      "name": "Contemporary",
+      "id": "contemporary",
+      "qubits": 7,
+      "port_qubits": [0, 1],
+      "ancilla_qubit": 2,
+      "basis_gates": [
+        "id", "x", "y", "z", "h", "s", "sdg", "t", "tdg", "sx", "cx"
+      ],
+      "edges": [
+        [0, 1],
+        [1, 2],
+        [2, 3],
+        [3, 4],
+        [4, 5],
+        [5, 6],
+        [1, 4],
+        [2, 5]
+      ],
+      "single_qubit_depolarizing": 0.0008,
+      "two_qubit_depolarizing": 0.012,
+      "readout_error": 0.01
+    },
+    {
+      "name": "Hyperbolic-Inspired",
+      "id": "hyperbolic_inspired",
+      "qubits": 9,
+      "port_qubits": [0, 1],
+      "ancilla_qubit": 3,
+      "basis_gates": [
+        "id", "x", "y", "z", "h", "s", "sdg", "t", "tdg", "sx", "cx"
+      ],
+      "edges": [
+        [0, 1],
+        [1, 2],
+        [2, 3],
+        [3, 4],
+        [4, 5],
+        [5, 6],
+        [6, 7],
+        [7, 8],
+        [0, 3],
+        [1, 4],
+        [2, 5],
+        [3, 6],
+        [4, 7],
+        [5, 8]
+      ],
+      "single_qubit_depolarizing": 0.001,
+      "two_qubit_depolarizing": 0.016,
+      "readout_error": 0.015
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+processor,mean_fidelity_noisy,std_fidelity_noisy,mean_fidelity_protected,std_fidelity_protected,fidelity_change,mean_acceptance_rate_protected,acceptance_loss,fidelity_improved
+2016-Inspired,0.92097,0.00244,0.88714,0.00427,-0.033829999999999916,0.91291,0.08709,False
+Contemporary,0.95977,0.00229,0.94672,0.00389,-0.013050000000000006,0.95591,0.04408999999999996,False
+Hyperbolic-Inspired,0.94164,0.00251,0.92589,0.00516,-0.015750000000000042,0.94067,0.059329999999999994,False

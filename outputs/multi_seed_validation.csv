@@ -1,0 +1,7 @@
+processor,experiment,runs,shots_per_observable,mean_fidelity,std_fidelity,mean_acceptance_rate,std_acceptance_rate,mean_f_minus_2sigma,all_passed_threshold
+2016-Inspired,Noisy,10,4096,0.92097,0.00244,1.0,0.0,0.91493,True
+2016-Inspired,Noisy + Protection,10,4096,0.88714,0.00427,0.91291,0.00303,0.87967,True
+Contemporary,Noisy,10,4096,0.95977,0.00229,1.0,0.0,0.95539,True
+Contemporary,Noisy + Protection,10,4096,0.94672,0.00389,0.95591,0.00173,0.9416,True
+Hyperbolic-Inspired,Noisy,10,4096,0.94164,0.00251,1.0,0.0,0.93641,True
+Hyperbolic-Inspired,Noisy + Protection,10,4096,0.92589,0.00516,0.94067,0.00267,0.91985,True

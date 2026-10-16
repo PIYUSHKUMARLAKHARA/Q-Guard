@@ -1,0 +1,4 @@
+processor,noisy_fidelity,protected_fidelity,fidelity_change,acceptance_rate,discarded_shots_avg,extra_two_qubit_gates,extra_circuit_depth,threshold_passed,fidelity_improved
+2016-Inspired,0.92102,0.88507,-0.035949999999999926,0.91105,364,5.0,5.0,True,False
+Contemporary,0.96277,0.94491,-0.017859999999999987,0.95508,184,5.0,5.0,True,False
+Hyperbolic-Inspired,0.94409,0.92835,-0.015739999999999976,0.94222,237,5.0,5.0,True,False

@@ -1,0 +1,4 @@
+processor,qubits,edges,average_degree,maximum_degree,connected_components,is_connected,single_qubit_depolarizing,two_qubit_depolarizing,readout_error
+2016-Inspired,5,4,1.6,2,1,True,0.0015,0.025,0.02
+Contemporary,7,8,2.28571,3,1,True,0.0008,0.012,0.01
+Hyperbolic-Inspired,9,14,3.11111,4,1,True,0.001,0.016,0.015

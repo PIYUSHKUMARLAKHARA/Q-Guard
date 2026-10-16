@@ -1,0 +1,11 @@
+{
+  "name": "q-guard",
+  "version": "2.0.0",
+  "description": "Q-Guard — Quantum Error Detection and Protection Optimizer",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "preview": "npm --prefix frontend run preview"
+  }
+}

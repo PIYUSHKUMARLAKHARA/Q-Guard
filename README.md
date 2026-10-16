@@ -7,6 +7,14 @@
 
 ---
 
+## 🎥 Project Demo Video
+[▶ Watch Q-Guard Demo](https://drive.google.com/file/d/1nTKyGhLLP3z7efpCGr93E5YQrpcxuf-5/view?usp=sharing)
+[▶ Watch Q-Guard Demo Presentation](https://drive.google.com/file/d/1tIhPab4vhWfsUdNH_TAJ5sdbmD606jNj/view?usp=sharing)
+
+## 📄 Project Documentation
+- [Project Report (PDF)](https://drive.google.com/file/d/1Dklhgt_YoYBr9OvVyjvbSw6XTuOhCns8/view?usp=sharing)
+
+
 ## 1. Project Overview & Scientific Problem
 
 Quantum processors operating in the Noisy Intermediate-Scale Quantum (NISQ) era suffer from physical decoherence, gate imperfections, and measurement readout errors. Preparing high-fidelity entangled Bell states is fundamental for quantum key distribution (QKD), quantum teleportation, and quantum networking.

@@ -12,7 +12,7 @@
 [▶ Watch Q-Guard Demo Presentation](https://drive.google.com/file/d/1tIhPab4vhWfsUdNH_TAJ5sdbmD606jNj/view?usp=sharing)
 
 ## 📄 Project Documentation
-- [Project Report (PDF)](https://drive.google.com/file/d/1Dklhgt_YoYBr9OvVyjvbSw6XTuOhCns8/view?usp=sharing)
+- [Project Report (PDF)](https://drive.google.com/file/d/1uvrPLXuso48mKGoW4PtLjqtSv77zpqsv/view?usp=sharing)
 
 
 ## 1. Project Overview & Scientific Problem
